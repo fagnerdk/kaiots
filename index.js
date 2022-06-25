@@ -7,8 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <p>oo</p>
+   
     <h1 id="p1"></h1>
-    <script src="ts.js"></script>
+    <script src="ts.js">
+    </script>
 </body>
 </html>
